@@ -1,4 +1,4 @@
-
+/*Galeria*/
 .container_a img{ 
     width: 100%; 
     height: auto;
@@ -28,4 +28,43 @@
 
 .pieGaleria {
     padding-bottom: 5%;
+}
+
+/*Inicio*/
+
+.content_Parrafo_Home{
+    border-style: outset; 
+    border-color: rgb(215, 201, 79);
+    background-color: bisque;
+}
+
+.texto{
+    text-shadow: 2px 2px rgb(238, 255, 0);
+}
+
+.efecto a{
+    transition: .4s;
+}
+
+.efecto a:hover{
+    color: #0d97e1;
+    transform: scale(1.1);
+    border-bottom: 2px solid aqua;; 
+}
+
+.b{
+    border-style: solid;
+    border: 3px solid rgb(255, 119, 0);
+}
+
+.v{
+    background-image: url(Img/huella.png);
+}
+
+.efecImag{
+    transition: .4s;
+}
+
+.efecImag:hover{
+    transform: scale(1.1);
 }
