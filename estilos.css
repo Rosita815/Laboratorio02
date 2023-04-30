@@ -68,3 +68,34 @@
 .efecImag:hover{
     transform: scale(1.1);
 }
+
+.fondoservicios{
+    background-image: url(Img/fondoservicio.jpg);
+}
+
+.textoservicio{
+    text-shadow: 1px 1px rgb(255, 0, 170);
+}
+
+.textosservicios{
+ text-decoration: underline;
+ text-shadow: 1px 1px rgb(60, 255, 0);
+}
+
+.fondocontacto{
+    background-image: url(Img/fondocontacto.jpg);
+}
+
+.pcontactp{
+    color: white;
+}
+
+
+.textocontacto{
+    color: white;
+}
+
+.textoscontactos{
+ text-decoration: underline;
+ color: white;
+}
